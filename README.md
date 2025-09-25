@@ -15,7 +15,7 @@ A collection of simple `C` and `C++` practice programs to explore fundamental pr
 
 ## Overview
 
-This repository contains a set of console-based programs written in C and C++. Each program serves as a hands-on exercise for practicing different programming topics:
+This repository contains a set of console-based programs written in `C` and `C++`. Each program serves as a hands-on exercise for practicing different programming topics:
 
 - Arithmetic operations  
 - Matrix manipulation and calculations  
