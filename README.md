@@ -1,6 +1,6 @@
 # C/C++ Practice Programs
 
-A collection of simple C and C++ practice programs to explore fundamental programming concepts—from basic arithmetic to string permutations and trigonometry.
+A collection of simple `C` and `C++` practice programs to explore fundamental programming concepts—from basic arithmetic to string permutations and trigonometry.
 
 ## Table of Contents
 
